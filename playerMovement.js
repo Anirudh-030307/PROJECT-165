@@ -16,4 +16,3 @@ AFRAME.registerComponent("player-movement", {
     });
   },
 });
-
